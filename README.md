@@ -26,7 +26,11 @@ so what my friend Nas Configuration:-
 
 -2x DC Jacks 1.4mm Inner, 3.4mm outer diameters (NES/J 135)
 
-so what i am going to do
-design a drawer like encloser 
+# so what i am going to do
+design a drawer like encloser
 in which the outer shell comes out by just sliding it 
+
+# here is the encloser outer shell 
+
+<img width="793" height="651" alt="Screenshot 2025-12-28 201526" src="https://github.com/user-attachments/assets/a7aab6dd-6c2f-42f6-80ad-e3974d6c8040" />
 
