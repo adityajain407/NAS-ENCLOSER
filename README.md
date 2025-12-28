@@ -34,3 +34,11 @@ in which the outer shell comes out by just sliding it
 
 <img width="793" height="651" alt="Screenshot 2025-12-28 201526" src="https://github.com/user-attachments/assets/a7aab6dd-6c2f-42f6-80ad-e3974d6c8040" />
 
+you can easy see the sliding grove 
+
+# here is the internal rack for hhd and resbery pi 
+<img width="710" height="534" alt="Screenshot 2025-12-28 202146" src="https://github.com/user-attachments/assets/b5feaa71-cf67-4506-8654-736ebc6c568a" />
+<img width="861" height="613" alt="Screenshot 2025-12-28 202132" src="https://github.com/user-attachments/assets/9924e989-2f1a-4250-8cd4-0b9f18ef48d3" />
+
+# here is the final lid 
+<img width="763" height="643" alt="image" src="https://github.com/user-attachments/assets/7b3ddcb3-5017-470f-970a-c6fa39790ddc" />
