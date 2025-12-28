@@ -15,3 +15,7 @@ so what my friend Nas Configuration:-
 -1x C14 plug (KES 1 S Cold-device built-in plug C14) [POWER_PLUG]
 -2x DC Jacks 1.4mm Inner, 3.4mm outer diameters (NES/J 135)
 
+so what i am going to do 
+design a drawer like encloser 
+in which the outer shell comes out by just sliding it 
+
